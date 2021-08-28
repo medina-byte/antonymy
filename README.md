@@ -6,5 +6,7 @@ Retrieved with the SPARQL search:
 SELECT *
 
 {
+
     ?s wn:antonym> ?o .
+    
 }
