@@ -13,6 +13,9 @@ SELECT *
 
 Contains three sheets. One with lemmas of adjectival antonyms only, one with links to the lemmas on English WordNet 2020 website and one with antonymy across other POSs.
 
+
+# License
+
 English WordNet is derived from Princeton WordNet by the English WordNet Community and released under the Creative Commons Attribution (CC-BY) 4.0 License.
 
 WordNet License
