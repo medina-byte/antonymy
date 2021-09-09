@@ -7,7 +7,7 @@ SELECT *
 
 {
 
-    ?s wn:antonym> ?o .
+    ?s wn:antonym ?o .
     
 }
 
