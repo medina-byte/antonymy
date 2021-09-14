@@ -13,7 +13,7 @@ SELECT *
 
 # Contents
 
-Contains three sheets. One with lemmas of adjectival antonyms only, one with links to the lemmas on English WordNet 2020 website and one with antonymy across other POSs.
+Contains three sheets. One with lemmas of adjectival antonyms only, one with links to the lemmas on the English WordNet 2020 website and one with antonymy across other POSs.
 
 
 # License
